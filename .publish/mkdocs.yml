@@ -1,0 +1,36 @@
+site_name: Research Notebook
+repo_url: https://github.com/AgedLace/research-notebook
+edit_uri: tree/main/
+docs_dir: pages
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.instant
+  
+markdown_extensions:
+    - toc:
+         permalink: True
+    - fenced_code
+    - tables
+    - admonition
+    - nl2br
+
+extra_javascript:
+  - extras/matomo.js
+
+extra_css:
+  - extras/styles.css
+
+plugins:
+  - search
+  - roamlinks
+  - tags:
+      tags_file: tagindex.md

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 14,
+  "cssTheme": "🔔 Chime",
+  "enabledCssSnippets": [
+    "snippets",
+    "custom-admonitions.972e30"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,19 @@
+{
+  "spellcheck": true,
+  "tabSize": 2,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "docs/Notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "shortest",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
