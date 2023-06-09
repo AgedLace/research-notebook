@@ -9,15 +9,14 @@ if Path(pagesDir).is_dir():
     shutil.rmtree(pagesDir)
 shutil.copytree(f'.publish/docs', f'{pagesDir}')
 
-dirsToCopy = ['00 Meta', '10 Example Data',
-              '20 Dataview Queries', '30 Dataview Resources']
+dirsToCopy = ['Daily Notes', 'Input Notes',
+              'MOCs', 'Projects', 'Quotes', 'Source Notes', ['Templates', 'Tutorials', 'Z - Notes', 'zz - Archives', 'zz - Rework These']]
 
 for dir in dirsToCopy:
     shutil.copytree(f'{dir}', f'{pagesDir}/{dir}')
 
 shutil.copy('README.md', f'{pagesDir}/index.md')
 shutil.copytree(f'.publish/assets', f'{pagesDir}/assets')
-shutil.copy('.publish/privacy.md', f'{pagesDir}/00 Meta/privacy.md')
 
 
 def moveTagsToFrontmatter(filedata):
