@@ -3,7 +3,7 @@ Title: Lesson 02 - Blink
 Aliases: Elegoo Super Starter Kit for UNO
 Created: 2023-05-31 07:50 pm
 Last-Modified :  
-Type: Capture
+Type: Input
 MOC: [[Inbox]]
 Parent: [[Arduino]]
 Status: Unprocessed

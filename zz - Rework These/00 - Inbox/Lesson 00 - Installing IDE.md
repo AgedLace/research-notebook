@@ -3,7 +3,7 @@ Title: Lesson 00 - Installing IDE
 Aliases: Elegoo Super Starter Kit For UNO
 Created: 2023-05-31 06:08 pm
 Last-Modified :  
-Type: Capture
+Type: Input
 MOC: [[Inbox]]
 Parent: [[Arduino/Elegoo]]
 Status: Unprocessed

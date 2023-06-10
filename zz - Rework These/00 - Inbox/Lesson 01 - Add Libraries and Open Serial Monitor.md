@@ -3,7 +3,7 @@ Title: Lesson 01 - Add Libraries and Open Serial Monitor
 Aliases: Elegoo Super Starter Kit for UNO
 Created: 2023-05-31 06:20 pm
 Last-Modified :  
-Type: Capture
+Type: Input
 MOC: [[Inbox]]
 Parent: [[Arduino]]
 Status: Unprocessed
