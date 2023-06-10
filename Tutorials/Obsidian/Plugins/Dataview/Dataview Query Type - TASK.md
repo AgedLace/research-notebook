@@ -5,7 +5,7 @@ Source:
   - (https: //blacksmithgu.github.io/obsidian-dataview/queries/structure/)
   - https: //blacksmithgu.github.io/obsidian-dataview/queries/query-types/
 Tags:
-  - Obsidian/Plugins/Dataview/Types/TASK
+  - Tutorials/Obsidian/Plugins/Dataview/Types/TASK
 ---
 
 ## Interactive Task Lists

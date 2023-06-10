@@ -3,9 +3,9 @@ Source: https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/#
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Dataview/Commands/FROM
-  - Obsidian/Plugins/Dataview/Sources
-  - Obsidian/Plugins/Dataview/Sources/Combined
+  - Tutorials/Obsidian/Plugins/Dataview/Commands/FROM
+  - Tutorials/Obsidian/Plugins/Dataview/Sources
+  - Tutorials/Obsidian/Plugins/Dataview/Sources/Combined
 ---
 
 ## Restrict Dataview Queries with 'FROM'

@@ -28,7 +28,7 @@ limit 5
 
 ```dataview
 table WITHOUT ID filename as "Title", "status" as "Status"
-WHERE "Status" = "Unprocessed"
+WHERE "status" = "Unprocessed"
 ```
 
 ```dataview

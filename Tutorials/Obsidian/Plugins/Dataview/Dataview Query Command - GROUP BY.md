@@ -3,7 +3,7 @@ Source: https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/#
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Dataview/Commands/GROUP-BY
+  - Tutorials/Obsidian/Plugins/Dataview/Commands/GROUP-BY
 ---
 
 ## **Group All Results On A Field**

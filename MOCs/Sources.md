@@ -17,7 +17,7 @@ MOC:
 
 ## Inbox
 
-### Types of [[Sources]]
+### Types of [[MOCs/Sources]]
 
 [[Articles]]
 [[Books]]

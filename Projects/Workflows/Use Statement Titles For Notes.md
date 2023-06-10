@@ -3,13 +3,9 @@ Title: Use Statement Titles For Notes
 Aliases:
 Created: 2023-05-31 12:40 am
 Last-Modified:
-Type: Zettel
-MOC: [[Zettelkasten]]
-Parent: [[How To Title Notes]]
-Tags: Workflow/Notes/Titles
-Class::
-Links:
-Source:
+Type: Workflow
+MOC: [[Workflows]]
+Tags: Workflow/Note-Titles
 ---
 
 ## Title Notes As Statements

@@ -3,7 +3,7 @@ Source: https://blacksmithgu.github.io/obsidian-dataview/reference/sources/combi
 Status:  Processed
 Type: Tutorial
 Tags: 
-  - Obsidian/Plugins/Dataview/Sources/Combined
+  - Tutorials/Obsidian/Plugins/Dataview/Sources/Combined
 ---
 
 ## Compose Filters To Get More Advanced Sources Using `AND` and `OR`

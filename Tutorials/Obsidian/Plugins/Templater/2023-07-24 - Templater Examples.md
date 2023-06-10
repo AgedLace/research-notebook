@@ -3,7 +3,7 @@ Source: (https://www.thoughtasylum.com/2021/07/24/the-basics-of-templater-for-ob
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Templater/Examples
+  - Tutorials/Obsidian/Plugins/Templater/Examples
 ---
 
 ## Example Templates

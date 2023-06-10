@@ -3,7 +3,7 @@ Source: https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/#
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Dataview/Commands/FLATTEN
+  - Tutorials/Obsidian/Plugins/Dataview/Commands/FLATTEN
 ---
 
 ## **Flatten An Array In Every Row, Yielding One Result Row Per Entry In The Array**

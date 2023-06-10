@@ -1,24 +1,17 @@
-<%*
-let NoteTitle = await tp.system.prompt("Note Title")
-titleName = tp.date.now("YYYY-MM-DD") + " " + "-" + " " + NoteTitle 
-await tp.file.rename(titleName)
-await tp.file.move("/Input Notes/" + titleName);
--%>
 ---
-Title: <% NoteTitle %>
+Title: {{NAME}}
 Alias:
 Created: <% tp.date.now("dddd, MMMM DD, YYYY HH:mm a") %>
 Last-Modified: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
 Source: 
 Status: Unprocessed
 Type: To Do List
-Tags: To-Do-List
+Tags: 
+  - To-Do-List
+  - {{VALUE:<Tags>}}
 ---
 
-**NOTE - SET YOUR TAGS**
-
-
-# <% NoteTitle %>
+# {{NAME}}
 Created: <% tp.date.now("dddd, MMMM DD, YYYY HH:mm a") %>
 Last-modified: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
 Source: 

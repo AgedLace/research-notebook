@@ -5,15 +5,12 @@
   "backlink",
   "outgoing-link",
   "tag-pane",
-  "page-preview",
   "daily-notes",
   "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
   "bookmarks",
-  "markdown-importer",
   "outline",
-  "workspaces",
   "file-recovery"
 ]

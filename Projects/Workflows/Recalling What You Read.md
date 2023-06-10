@@ -3,17 +3,13 @@ Title:  Recalling What You Read
 Aliases:
 Created: 2023-05-30 11:31 pm
 Last-Modified::  
-Type: Zettel
-MOC: [[Zettelkasten]]
-Status: 
+Type: Workflow
+MOC: [[Workflows]]
 Tags: 
-  - Workflow/Book-Notes/Recall-What-You-Read
-Course:
-Class:
-Link: 
+  - Workflow/Recall-What-You-Read
 ---
 
-# Workflow - Recalling What You Read
+# Recalling What You Read
 
 While reading look for ...
 - sections that resonate with you

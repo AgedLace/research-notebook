@@ -1,9 +1,9 @@
 ---
 Source:  (https://facedragons.com/productivity/organizing-notes-in-obsidian/)
 Status: Processed
-Type: Source Note
+Type: Tutorial
 Tags:
-  - Obsidian/Setup
+  - Tutorials/Obsidian/Setup
 ---
 
 ## Three Examples

@@ -3,11 +3,10 @@ Title: How To Title Notes
 Aliases:
 Created: 2023-05-31 12:40 am
 Last-Modified:
-Type: Zettel
-MOC: [[Zettelkasten]]
-Parent: [[Workflow/Notes]]
+Type: Workflow
+MOC: [[Workflows]]
 Tags: 
-  - Workflow/Notes/Titles
+  - Workflow/Note-Titles
   - Markdown/Footnotes
   - Obsidian/Plugins/Footnotes
 Class::

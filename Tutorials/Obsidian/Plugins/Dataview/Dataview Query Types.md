@@ -3,7 +3,7 @@ Source: (https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Dataview/Types
+  - Tutorials/Obsidian/Plugins/Dataview/Types
 ---
 
 ## 4 Types

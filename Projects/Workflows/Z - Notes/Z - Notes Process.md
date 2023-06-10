@@ -1,3 +1,14 @@
+---
+Title: Z - Notes Process
+Aliases: Z-Note Workflow
+Created: 2023-05-30 11:58 pm
+Last-Modified::  
+Type: Workflow
+MOC: [[Workflows]]
+Tags: 
+  - Workflow/Z-Notes/Z-Notes-Process
+---
+
 ## Z-Note Process
 
 ---

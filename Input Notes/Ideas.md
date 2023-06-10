@@ -5,7 +5,7 @@ last-modified: Sunday, April 30, 2023 10:50 am
 source: 
 type: My Ideas
 status: Unprocessed
-tags: Input-Notes/My-Ideas/2023-04-30
+tags: Input-Notes/My-Ideas
 ---
 
 # Ideas

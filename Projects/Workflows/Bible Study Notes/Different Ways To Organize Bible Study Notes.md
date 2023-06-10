@@ -3,7 +3,7 @@ Source: (https://facedragons.com/productivity/how-to-take-bible-notes/)
 Status: Processed
 Type: Source Note
 Tags:
-  - Bible-Study-Notes/Organize
+  - Workflow/Bible-Study-Notes/Organize
 ---
 
 - Organize by Book

@@ -4,8 +4,8 @@ Alias:
 Created: Friday, June 09, 2023 23:40 pm
 Last-Modified: Friday, June 09, 2023 11:40 pm
 Source: 
-Status: Unprocessed
-Type: Source Note
+Status: 
+Type: Workflow
 Tags: Workflow/Book-Notes/Highlighting
 ---
 

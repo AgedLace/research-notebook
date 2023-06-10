@@ -3,7 +3,7 @@ Source: https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/#
 Status: Processed
 Type: Tutorial
 Tags:
-  - Obsidian/Plugins/Dataview/Commands/WHERE
+  - Tutorials/Obsidian/Plugins/Dataview/Commands/WHERE
 ---
 
 ## Filter Pages On Fields

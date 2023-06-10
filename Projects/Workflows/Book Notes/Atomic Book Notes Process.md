@@ -3,17 +3,11 @@ Title: Atomic Book Notes Process
 Aliases:
 Created: 2023-05-30 11:58 pm
 Last-Modified: :  
-Type: Zettel
-MOC: [[Zettelkasten]]
-Parent: [[How To Take Book Notes]]
-Status: 
+Type: Workflow
+MOC: [[Workflows]]
 Tags: 
   - Workflow/Book-Notes/How-To-Take
-  - Workflow/Book-Notes/Atomic-Book-Notes/Process
-Course: 
-Class: 
-Links: 
-Source:
+  - Workflow/Book-Notes/Atomic-Book-Notes-Process
 ---
 
 ## Atomic Book Notes Process

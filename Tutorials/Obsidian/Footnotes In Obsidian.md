@@ -3,18 +3,11 @@ Title: Footnotes In Obsidian
 Aliases:
 Created: 2023-05-31 12:36 am
 Last-Modified:  
-Type: Zettel
-MOC: [[Zettelkasten]]
-Parent: 
-  - [[Obsidian]] 
-  - [[Markdown]]
-Status: 
+Type: Tutorial
+MOC: [[Tutorials]]
 Tags: 
-  - Markdown/Footnotes 
-  - Obsidian/Plugins/Footnotes
-Course: 
-Class: 
-Links: 
+  - Tutorials/Markdown/Footnotes 
+  - Tutorials/Obsidian/Plugins/Footnotes
 Source: https://obsidian.rocks/footnotes-in-obsidian/
 ---
 

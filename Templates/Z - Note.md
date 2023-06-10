@@ -1,23 +1,17 @@
-<%*
-let Title = await tp.system.prompt("Note Title")
-await tp.file.title
-await tp.file.move("/Z - Permanent Notes/" + Title);
--%>
 ---
-Title: <% Title %>
+Title: {{NAME}}
 Alias:
 Created: <% tp.date.now("dddd, MMMM DD, YYYY hh:mm a") %>
 Last-Modified: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
 Source: 
 Status: Unprocessed
-Type: Z- Note
-Tags:  Z-Note/Note-Name
+Type: Z - Note
+Tags:  
+  - Z-Note
+  - {{VALUE: <Tags>}}
 ---
 
-**NOTE - SET YOUR TAGS!!!**
-
-
-# <% Title %>
+# {{NAME}}
 Created:: <% tp.date.now("dddd, MMMM DD, YYYY hh:mm a") %>
 Last-Modified:: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
 

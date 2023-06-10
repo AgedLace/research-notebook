@@ -3,8 +3,8 @@ Status: Processed
 Type: Tutorial
 Source: (https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 Tags:
-  - Obsidian/Plugins/Dataview/Structure
-  - Obsidian/Plugins/Dataview/Types
+  - Tutorials/Obsidian/Plugins/Dataview/Structure
+  - Tutorials/Obsidian/Plugins/Dataview/Types
 ---
 
 ## Basic Query Output Structure

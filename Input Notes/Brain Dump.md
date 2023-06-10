@@ -5,7 +5,7 @@ Last-Modified: Sunday, April 30, 2023 10:56 am
 Source: 
 Status: Unprocessed
 Type: Brain Dump
-Tags:  Input-Notes/Brain-Dump/2023-04-30
+Tags:  Input-Notes/Brain-Dump
 ---
 
 ## Brain Dump

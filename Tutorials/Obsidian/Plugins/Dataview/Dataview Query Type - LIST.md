@@ -5,7 +5,7 @@ Source:
   - (https: //blacksmithgu.github.io/obsidian-dataview/queries/structure/)
   - https: //blacksmithgu.github.io/obsidian-dataview/queries/query-types/
 Tags:
-  - Obsidian/Plugins/Dataview/Types/LIST
+  - Tutorials/Obsidian/Plugins/Dataview/Types/LIST
 ---
 
 ### **The simplest LIST query outputs a bullet point list of all files in your vault**

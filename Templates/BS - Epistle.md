@@ -1,23 +1,18 @@
-<%*
-let Title = await tp.system.prompt("Note Title")
-await tp.file.title
-await tp.file.move("/Source Notes/Bible Study/" + Title);
--%>
 ---
-Title: <% Title %>
+Title: {{NAME}}
 Alias:
 Created: <% tp.date.now("dddd, MMMM DD, YYYY hh:mm a") %>
 Last-Modified: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
 Source: 
 Status: Unprocessed
 Type: Epistle
-Tags:  Bible-Study/Epistle
+Tags:  
+  - Bible-Study/Epistle
+  - {{VALUE: <Tags>}}
+  - {{VALUE: <Bible Passage>}}
 ---
 
-**NOTE - SET YOUR TAGS!!!**
-
-
-# <% Title %>
+# {{NAME}}
 
 Created:: <% tp.date.now("dddd, MMMM DD, YYYY hh:mm a") %>
 Last-Modified:: <% tp.file.last_modified_date("dddd, MMMM DD, YYYY hh:mm a") %>
