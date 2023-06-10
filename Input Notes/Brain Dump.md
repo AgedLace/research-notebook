@@ -43,11 +43,10 @@ Last-Modified:: Sunday, April 30, 2023 10:56 am
 ### What's On My Bucket List?
 
 
-
----
+<hr>
 
 #### Separate items into ...
 
-	* Actionable
-	* Non-Actionable
+* Actionable
+* Non-Actionable
 
