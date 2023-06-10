@@ -10,7 +10,7 @@ if Path(pagesDir).is_dir():
 shutil.copytree(f'.publish/docs', f'{pagesDir}')
 
 dirsToCopy = ['Archives','Blog', 'Daily Notes', 'Input Notes',
-              'MOCs', 'Projects', 'Quotes', 'Source Notes', 'Templates', 'Tutorials', 'Z - Notes', 'zz - Rework These']
+              'MOCs', 'Projects', 'Quotes', 'Source Notes', 'Templates', 'Tutorials', 'Z - Notes']
 
 for dir in dirsToCopy:
     shutil.copytree(f'{dir}', f'{pagesDir}/{dir}')
