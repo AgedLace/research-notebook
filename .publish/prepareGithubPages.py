@@ -9,8 +9,8 @@ if Path(pagesDir).is_dir():
     shutil.rmtree(pagesDir)
 shutil.copytree(f'.publish/docs', f'{pagesDir}')
 
-dirsToCopy = ['Blog', 'Daily Notes', 'Input Notes',
-              'MOCs', 'Projects', 'Quotes', 'Source Notes', 'Templates', 'Tutorials', 'Z - Notes', 'zz - Archives', 'zz - Rework These']
+dirsToCopy = ['Archives','Blog', 'Daily Notes', 'Input Notes',
+              'MOCs', 'Projects', 'Quotes', 'Source Notes', 'Templates', 'Tutorials', 'Z - Notes', 'zz - Rework These']
 
 for dir in dirsToCopy:
     shutil.copytree(f'{dir}', f'{pagesDir}/{dir}')
