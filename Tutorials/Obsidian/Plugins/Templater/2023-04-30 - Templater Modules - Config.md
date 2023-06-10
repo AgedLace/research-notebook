@@ -3,7 +3,8 @@ title: Templater Modules - Config
 created: Sunday, April 30, 2023 14:32 pm
 last-modified: Sunday, April 30, 2023 02:31 pm
 source: 
-status: Unprocessed
+status: Processed
+type: Tutorial
 tags: Tutorials/Obsidian/Plugins/Templater/Internal-Functions/Modules/Config
 ---
 

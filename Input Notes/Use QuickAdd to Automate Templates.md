@@ -28,7 +28,7 @@ anotherField: {{VALUE: Another field?}}
 ```
 
 ## Example Templater General Note
-#Obidian/Plugins/Templater/Examples/General-Note
+#Obsidian/Plugins/Templater/Examples/General-Note
 
 ```
 ---

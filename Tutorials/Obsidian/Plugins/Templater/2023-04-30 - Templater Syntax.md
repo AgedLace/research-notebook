@@ -3,7 +3,8 @@ title: Templater Syntax
 created: Sunday, April 30, 2023 09:10 am
 last-modified: Sunday, April 30, 2023 09:09 am
 source: 
-status: Reviewing
+status: Processed
+type: Tutorial
 tags: Tutorials/Obsidian/Plugins/Templater/Syntax
 ---
 

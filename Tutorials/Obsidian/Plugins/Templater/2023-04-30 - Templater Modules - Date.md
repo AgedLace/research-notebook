@@ -3,7 +3,8 @@ title: Templater Modules - Date
 created: Sunday, April 30, 2023 14:38 pm
 last-modified: Sunday, April 30, 2023 02:37 pm
 source: 
-status: Unprocessed
+status: Processed
+type: Tutorial
 tags: Tutorials/Obsidian/Plugins/Templater/Internal-Functions/Modules/Date
 ---
 

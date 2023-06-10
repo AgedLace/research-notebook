@@ -3,7 +3,8 @@ title: Templater Examples
 source: [[https://www.thoughtasylum.com/2021/07/24/the-basics-of-templater-for-obsidian/]]
 created: Saturday, April 29, 2023 21:20 pm
 last-modified: Saturday, April 29, 2023 09:20 pm
-status: Reviewing
+status: Processed
+type: Tutorial
 tags: Tutorials/Obsidian/Plugins/Templater/Examples
 ---
 

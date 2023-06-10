@@ -1,5 +1,5 @@
 ---
-Status: Reviewing
+Status: Pending
 Tags: 
 - Dataview-Query/MOC-Index 
 - Dataview-Query/Recently-Opened-Notes
