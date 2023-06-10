@@ -1,6 +1,6 @@
 ---
-Status: Unprocessed
-Type: Z-Note
+Status: Processed
+Type: Tutorial
 Tags: 
   - Obsidian/Plugins/QuickAdd
   - Obsidian/Templates/Automation

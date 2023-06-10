@@ -1,6 +1,7 @@
 ---
 Source: (https://www.thoughtasylum.com/2021/07/24/the-basics-of-templater-for-obsidian/)
-Status: Unprocessed
+Status: Processed
+Type: Tutorial
 Tags:
   - Obsidian/Plugins/Templater/Examples
 ---

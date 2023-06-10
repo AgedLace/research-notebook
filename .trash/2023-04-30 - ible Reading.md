@@ -1,16 +1,14 @@
 ---
-Title: Today's Bible Reading
+Title: Bible Reading
 Created: Sunday, April 30, 2023 11:09 am
 Last-Modified: Sunday, April 30, 2023 11:09 am
 Source: 
-Status: Unprocessed
+Status: Processed
 Type: Bible Reading
 Tags:  Bible-Reading/Passage
 ---
-# **NOTE - SET YOUR TAGS!!!**
 
-
-# Today's Bible Reading
+# Bible Reading
 Created:: Sunday, April 30, 2023 11:09 am
 Last-Modified:: Sunday, April 30, 2023 11:09 am
 

@@ -1,5 +1,5 @@
 ---
-Title: Today's Brain Dump
+Title: Brain Dump
 Created: Sunday, April 30, 2023 10:57 am
 Last-Modified: Sunday, April 30, 2023 10:56 am
 Source: 

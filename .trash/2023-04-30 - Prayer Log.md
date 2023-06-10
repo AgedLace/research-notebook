@@ -1,21 +1,19 @@
 ---
-Title: Today's Daily Prayer Journal
+Title: Prayer Journal
 Created: Sunday, April 30, 2023 11:06 am
 Last-Modified: Sunday, April 30, 2023 11:06 am
 Source: 
-Status: Unprocessed
+Status: Processed
 Type: Prayer Journal
 Tags:  Prayer
-
 ---
-# **NOTE - SET YOUR TAGS!!!**
-
 
 # Today's Daily Prayer Journal
 
 Created:: Sunday, April 30, 2023 11:06 am
 Last-Modified:: Sunday, April 30, 2023 11:06 am
 
+---
 
 ## Bible Reading
 

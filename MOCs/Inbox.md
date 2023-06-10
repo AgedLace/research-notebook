@@ -1,7 +1,7 @@
 ---
 Type: MOC
 Parent: [[Home]]
-Tags: #MOC
+Tags: MOC/Inbox
 ---
 
 ## 'LOST' Notes
